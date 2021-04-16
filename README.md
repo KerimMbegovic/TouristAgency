@@ -1,2 +1,2 @@
 # TouristAgency
-Rad turističke agencije u C++ programskom jeziku. Projekat iz OOP-a.
+Management system turističke agencije u C++ programskom jeziku. <br>Projekat iz OOP-a.
